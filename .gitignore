@@ -5,3 +5,5 @@ data/*
 vector_store/*
 .env
 *.ipynb_checkpoints/
+*.csv
+
